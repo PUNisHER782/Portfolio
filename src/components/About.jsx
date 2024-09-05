@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I am a dedicated and innovative full-stack developer with a strong focus on creating dynamic and engaging digital solutions. With expertise in front-end
+         and back-end development, I specialize in building responsive websites, custom web applications, and user-centric designs that align with business goals.
+          As a founder of Tech Wizard, I lead projects with a commitment to quality, leveraging the latest technologies to deliver solutions that are both functional
+           and visually compelling. My approach combines technical proficiency with creative problem-solving, ensuring every project exceeds client expectations and drives 
+           measurable success.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
