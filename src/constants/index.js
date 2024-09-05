@@ -15,18 +15,14 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   tech,
   cyco,
   techcom,
   graphics,
+  adamas,
+  CYCODERS,
+  techwizard,
 } from "../assets";
 
 export const navLinks = [
@@ -122,8 +118,8 @@ const experiences = [
   {
     title: "Front-End Developer",
     company_name: "Adamas University",
-    icon: starbucks,
-    iconBg: "#383E56",
+    icon: adamas,
+    iconBg: "#F0F3F5",
     date: "March 2023 - April 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -135,8 +131,8 @@ const experiences = [
   {
     title: "Graphic Designer",
     company_name: "Cy-Coders Club",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    icon: CYCODERS,
+    iconBg: "#F7F7F7",
     date: "Jan 2023 - Feb 2024",
     points: [
       "Led the design and development of visual content for the Cy-Coders Club website, ensuring a cohesive and engaging user experience.",
@@ -149,8 +145,8 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Tech-Wizard",
-    icon: shopify,
-    iconBg: "#383E56",
+    icon: techwizard,
+    iconBg: "#000000",
     date: "Jul 2024 - Present",
     points: [
       "Spearheaded the establishment and growth of Tech Wizard, focusing on delivering innovative digital solutions, including website development, custom web applications, and graphic design.",

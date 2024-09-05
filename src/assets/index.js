@@ -21,19 +21,14 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import tech from "./tech/wizard.png";
 import techcom from "./techcom.png";
 import cyco from "./cyco.png";
 import graphics from "./graphics.png"
-
+import Tech_back from "./Tech_back.png"
+import adamas from "./company/adamas.png"
+import CYCODERS from "./company/CYCODERS.jpg"
+import techwizard from "./company/techwizard.png"
 
 export {
   logo,
@@ -57,15 +52,12 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
   tech,
   techcom,
   cyco,
-  graphics
+  graphics,
+  Tech_back,
+  adamas,
+  CYCODERS,
+  techwizard
 };
